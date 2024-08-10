@@ -1,0 +1,2 @@
+
+Member{name=, surname=, idNo=, gender=Male, contractaType=Month-to-month, isPersonalTrainerNeeded=false}
